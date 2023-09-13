@@ -10,7 +10,7 @@ I'm Emran, a passionate competitive programmer and tech enthusiast, with a thirs
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emranitmbstu@gmail.com)
 
 :hearts: &emsp;I enjoy programming and gather knowledge <br/>
-:computer: &emsp;`do {"Code * Eat * Sleep"}
+:computer: &emsp;`do {"Code * Eat * Sleep"}\\
 while(1)` <br/>
 :e-mail: &emsp;Email me: emranitmbstu@gmail.com.<br/>
 
@@ -19,6 +19,10 @@ while(1)` <br/>
 
 [![C](https://img.shields.io/badge/-C-White?style=for-the-badge&labelColor=black&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-CPP-0864aa?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=blue)](#)
+[![HTML](https://img.shields.io/badge/-HTML-EC7063?style=for-the-badge&labelColor=black&logo=html5&logoColor=#EC7063)](#)
+
+[![CSS](https://img.shields.io/badge/-CSS-186A3B?style=for-the-badge&labelColor=black&logo=css3&logoColor=186A3B)](#)
+[![SQL](https://img.shields.io/badge/-SQL-186A3B?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
