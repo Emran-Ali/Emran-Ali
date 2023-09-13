@@ -10,8 +10,8 @@ I'm Emran, a passionate competitive programmer and tech enthusiast, with a thirs
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emranitmbstu@gmail.com)
 
 :hearts: &emsp;I enjoy programming and gather knowledge <br/>
-:computer: &emsp;`do {"Code * Eat * Sleep"}\\
-while(1)` <br/>
+:computer: &emsp;`do {"Code * Eat * Sleep"}` <br/>
+`while(1)` <br/>
 :e-mail: &emsp;Email me: emranitmbstu@gmail.com.<br/>
 
 
