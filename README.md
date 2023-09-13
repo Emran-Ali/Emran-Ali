@@ -26,8 +26,8 @@ I'm Emran, a passionate competitive programmer and tech enthusiast, with a thirs
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
-   [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1E88E5?style=for-the-badge&logo=visual%20studio&logoColor=1E88E5)](#)
+   [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032)](#)
 
 
 
