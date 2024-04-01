@@ -33,7 +33,7 @@ I'm Emran, a passionate competitive programmer and tech enthusiast, with a thirs
 
 
 
-- 🔭 I’m currently not working .
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently  working as Intern Software Engineer at SoftBD Ltd(softbd.com).
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate IT Company 
 - ⚡ Fun fact: 'Find yourself'
