@@ -26,14 +26,18 @@ I'm Emran, a passionate competitive programmer and tech enthusiast, with a thirs
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1E88E5?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
-   [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](#)
+
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1E88E5?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
 
 
 
-- 🔭 I’m currently  working as Junior Software Engineer at SoftBD Ltd(softbd.com).
-- 🌱 I’m currently learning NextJS
-- 👯 I’m looking to collaborate IT Company 
+- 🔭 I’m currently  working as Software Engineer at Genesys Softwares.
+- 🕰️ Former Junior Software Engineer at SoftBD Ltd(softbd.com).
+- 🌱 I’m currently learning NestJS
+- 👯 I’m looking to collaborate Peace 
 - ⚡ Fun fact: 'Find yourself'
