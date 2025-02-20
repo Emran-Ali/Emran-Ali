@@ -23,7 +23,7 @@ I'm Emran, a passionate competitive programmer and tech enthusiast, with a thirs
 
 [![CSS](https://img.shields.io/badge/-CSS-186A3B?style=for-the-badge&labelColor=black&logo=css3&logoColor=186A3B)](#) 
 [![SQL](https://img.shields.io/badge/-SQL-ed644b?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ed644b)](#) 
-[![Redis](https://img.shields.io/badge/-Redis-ed644b?style=for-the-badge&labelColor=black&logo=redis&logoColor=ed644b)](#)
+[![Redis](https://img.shields.io/badge/-Redis-ff4538?style=for-the-badge&labelColor=black&logo=redis&logoColor=ff4538)](#)
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
